@@ -20,5 +20,5 @@
 
 ### Baekjoon
 - <a href="./Baekjoon/18258.js">18258. 큐 2</a>
-- [18258. 큐 2](https://github.com/parkksss/Study/blob/main/Data_Structure/Baekjoon/18258.js)
+- <a href="./Baekjoon/11050.js">18258. 이항 계수 1</a>
 

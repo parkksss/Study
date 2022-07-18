@@ -22,4 +22,5 @@
 - <a href="./Baekjoon/18258.js">18258. 큐 2</a>
 - <a href="./Baekjoon/11050.js">11050. 이항 계수 1</a>
 - <a href="./Baekjoon/10773.js">10773. 제로</a>
+- <a href="./Baekjoon/10250.js">10250. ACM 호텔</a>
 

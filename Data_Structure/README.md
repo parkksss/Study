@@ -3,10 +3,8 @@
 
 - [Theory 🔥](#Theory)
 - [Coding test 🔥](#Coding-test)
-
   - Programmers
   - Baekjoon
-
 
 
 ## Theory

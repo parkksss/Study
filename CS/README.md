@@ -2,7 +2,8 @@
 
 
 - [Computer Science 🔥](#Computer-Science)
-- [HTML/CSS 🔥](#HTML/CSS)
+- [HTML 🔥](#HTML)
+- [CSS 🔥](#CSS)
 - [JavaScript 🔥](#JavaScript)
 - [React 🔥](#React)
 - [Data Structure 🔥](#Data-Structure)

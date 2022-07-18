@@ -20,6 +20,5 @@
 
 - `Theory 🔥`
 - `Coding test 🔥`
-
   - Programmers
   - Baekjoon

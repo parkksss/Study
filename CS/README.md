@@ -11,7 +11,8 @@
 
 ## Computer Science
 
-<!-- - []() -->
+- [GET vs POST](https://velog.io/@parkksss/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-HTTP-Method)
+- [브라우저 렌더링 과정](https://velog.io/@parkksss/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-%EB%A0%8C%EB%8D%94%EB%A7%81)
 
 ## HTML
 
@@ -23,7 +24,6 @@
 
 ## JavaScript
 
-<!-- - []() -->
 
 ## React
 

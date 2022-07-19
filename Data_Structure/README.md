@@ -26,4 +26,5 @@
 - <a href="./Baekjoon/4948.js">4948. 베르트랑 공준</a>
 - <a href="./Baekjoon/2869.js">2869. 달팽이는 올라가고 싶다</a>
 - <a href="./Baekjoon/2609.js">2609. 최대공약수와 최소공배수</a>
+- <a href="./Baekjoon/1934.js">1934. 최소공배수</a>
 

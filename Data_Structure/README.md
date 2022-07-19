@@ -29,4 +29,5 @@
 - <a href="./Baekjoon/1934.js">1934. 최소공배수</a>
 - <a href="./Baekjoon/1929.js">1929. 소수 구하기</a>
 - <a href="./Baekjoon/1874.js">1874. 스택 수열</a>
+- <a href="./Baekjoon/1037.js">1037. 약수</a>
 

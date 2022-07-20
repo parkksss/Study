@@ -16,6 +16,7 @@
 ### Programmers
 
 - [lv1. x만큼 간격이 있는 n개의 숫자](https://velog.io/@parkksss/coding-test-programmers-1) 
+- [lv1. 직사각형 별찍기](https://velog.io/@parkksss/coding-test-programmers-2) 
 
 
 ### Baekjoon

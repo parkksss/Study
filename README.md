@@ -5,12 +5,22 @@
 
 ## <a href="./Basic/README.md">① Basic study </a>
 
+- `Computer Science 🔥`
 - `HTML/CSS 🔥`
 - `JavaScript 🔥`
 - `TypeScript 🔥`
 - `React 🔥`
 
-## <a href="./CS/README.md">② CS / Interview </a>
+
+## <a href="./Data_Structure/README.md">② Data Structure / Algorithm </a>
+
+- `Theory 🔥`
+- `Coding test 🔥`
+  - Programmers
+  - Baekjoon
+
+
+## <a href="./Interview/README.md">③ Interview </a>
 
 - `Computer Science 🔥`
 - `HTML/CSS 🔥`
@@ -18,9 +28,4 @@
 - `React 🔥`
 - `Data Structure 🔥`
 
-## <a href="./Data_Structure/README.md">③ Data Structure / Algorithm </a>
-
-- `Theory 🔥`
-- `Coding test 🔥`
-  - Programmers
-  - Baekjoon
+<br>

@@ -1,15 +1,19 @@
 # Data Structure / Algorithm
 
+## 목차
 
 - [Theory 🔥](#Theory)
-- [Coding test 🔥](#Coding-test)
-  - Programmers
-  - Baekjoon
+- Coding test 🔥
+  - [Programmers](#Programmers)
+  - [Baekjoon](#Baekjoon)
 
+<br>
 
 ## Theory
 
 <!-- - []() -->
+
+<br>
 
 ## Coding test
 
@@ -32,3 +36,4 @@
 - <a href="./Baekjoon/1874.js">1874. 스택 수열</a>
 - <a href="./Baekjoon/1037.js">1037. 약수</a>
 
+<br>

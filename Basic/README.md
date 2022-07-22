@@ -24,7 +24,7 @@
 <!-- - Cloudfront (aws, css, cloudfront개념 / 배포방법)
 - MVP
 - UT
-- JWT -->
+- JWT (개념, + 코드 🖥 ) -->
 
 <br>
 
@@ -36,7 +36,7 @@
 
 - [Box model (CSS 박스 모델)](https://velog.io/@parkksss/%EA%B0%9C%EB%B0%9C%EA%B8%B0%EB%A1%9D-css%EB%B0%95%EC%8A%A4%EB%AA%A8%EB%8D%B8)
 
-<!-- - 반응형웹 vs 적응형웹 -->
+<!-- - 반응형웹 vs 적응형웹 ( 개념, + 코드 🖥 ) -->
 
 <br>
 
@@ -65,17 +65,17 @@
 - 라이브러리 vs 프레임워크 vs 패키지 (개념, 차이점)
 - 전역상태관리 (개념, 라이브러리들)
 - Redux (redux, 특징, 기본원칙)
-- 무한스크롤 (Infinite scroll, intersectionObserver api, 내코드)
-- 소셜로그인 (소셜로그인, social oauth, 내코드)
+- 무한스크롤 (Infinite scroll, intersectionObserver api, + 코드 🖥 )
+- 소셜로그인 (소셜로그인, social oauth, 프로젝트에서 선택이유, + 코드 🖥 ) 
 
 - react-router-dom
 - styled-components
 
-- kakao-map (api)
-- react-kakao-maps-sdk (커스텀오버레이, 내코드)
-- geolocation
+- kakao-map (api, + 코드 🖥 )
+- react-kakao-maps-sdk (커스텀오버레이, 인포윈도우/마커, + 코드 🖥 )
+- geolocation (실시간 위치기반 서비스, + 코드 🖥 )
 
-- 웹소켓(websocket : stomp, sockjs)
-- PWA -->
+- 웹소켓(websocket : stomp, sockjs, + 코드 🖥 )
+- PWA (개념, 설정방법, + 코드 🖥 ) -->
 
 <br>

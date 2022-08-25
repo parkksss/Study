@@ -14,7 +14,7 @@
 [👉 Data Structure study room : Notion](https://www.notion.so/Data-Structure-7c76d0baf9c2463dac0d4911048d37be)
 
 - [완전 탐색(exhaustive search)](https://www.notion.so/exhaustive-search-6e5445da6e394e0fa870312625762754)
-- [해시(Hash)](https://www.notion.so/Hash-64d8d6f991b146e6aa347a0a2438c21f) ([code](https://github.com/parkksss/Study/blob/main/Data_Structure/Theory/hashTable.js))
+- [해시(Hash)](https://www.notion.so/Hash-64d8d6f991b146e6aa347a0a2438c21f) ([ ✍ code ](https://github.com/parkksss/Study/blob/main/Data_Structure/Theory/hashTable.js))
 
 <br>
 

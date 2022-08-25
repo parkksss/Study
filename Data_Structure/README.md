@@ -22,11 +22,12 @@
 
 ### Programmers
 
-- [lv1. x만큼 간격이 있는 n개의 숫자](https://velog.io/@parkksss/coding-test-programmers-1) 
-- [lv1. 직사각형 별찍기](https://velog.io/@parkksss/coding-test-programmers-2) 
-- [lv1. 짝수와 홀수](https://velog.io/@parkksss/coding-test-programmers-3)
-- [lv1. 가운데 글자 가져오기](https://velog.io/@parkksss/coding-test-programmers-4)
-- [lv1. 시저 암호](https://velog.io/@parkksss/coding-test-programmers-39)
+- [x만큼 간격이 있는 n개의 숫자](https://velog.io/@parkksss/coding-test-programmers-1) 
+- [직사각형 별찍기](https://velog.io/@parkksss/coding-test-programmers-2) 
+- [짝수와 홀수](https://velog.io/@parkksss/coding-test-programmers-3)
+- [가운데 글자 가져오기](https://velog.io/@parkksss/coding-test-programmers-4)
+- [시저 암호](https://velog.io/@parkksss/coding-test-programmers-39)
+- [폰켓몬](https://velog.io/@parkksss/coding-test-programmers-42)
 
 ### Baekjoon
 - <a href="./Baekjoon/18258.js">18258. 큐 2</a>

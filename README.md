@@ -1,6 +1,6 @@
 # A record of what I studied
 
-[👉 study room](https://ripe-pincushion-3a9.notion.site/Yeseul-s-Study-Room-7a71b23d755346949cf722a72beb4c63)
+[👉 private study room : Notion](https://ripe-pincushion-3a9.notion.site/Yeseul-s-Study-Room-7a71b23d755346949cf722a72beb4c63)
 
 
 ## <a href="./Basic/README.md">① Basic study </a>

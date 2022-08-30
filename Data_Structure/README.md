@@ -27,7 +27,8 @@
 - [짝수와 홀수](https://velog.io/@parkksss/coding-test-programmers-3)
 - [가운데 글자 가져오기](https://velog.io/@parkksss/coding-test-programmers-4)
 - [시저 암호](https://velog.io/@parkksss/coding-test-programmers-39)
-- [폰켓몬](https://velog.io/@parkksss/coding-test-programmers-42)
+- [폰켓몬 (해시연습)](https://velog.io/@parkksss/coding-test-programmers-42)
+- [위장 (해시연습)](https://velog.io/@parkksss/coding-test-programmers-43)
 
 ### Baekjoon
 - <a href="./Baekjoon/18258.js">18258. 큐 2</a>

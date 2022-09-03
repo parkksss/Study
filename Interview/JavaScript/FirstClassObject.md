@@ -1,3 +1,6 @@
+
+[👉 일급 객체(First-class Object) : study room](https://www.notion.so/First-class-Object-744c3ca56dd74ef9b23cdbec948c75d0)
+
 ## 일급 객체가 뭔가요?
 
 **일급객체(first class object)**

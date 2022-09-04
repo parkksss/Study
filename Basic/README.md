@@ -49,6 +49,7 @@
 - [var, let, const](https://velog.io/@parkksss/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-var-let-const)
 - [Webpack](https://velog.io/@parkksss/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-Webpack)
 - [Array vs LinkedList](https://velog.io/@parkksss/%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%8B%9D-Array-vs-LinkedList)
+- [생성자 함수에 의한 객체 생성](https://www.notion.so/3c1ed4cbad0d49a597c81b6cabd2ee59)
 
 <!-- - REST API(rest api, restful api, http method, context api) [🏃‍♀️스프린터스🏃‍♀️] 
 - axios -->

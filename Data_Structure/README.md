@@ -17,7 +17,7 @@
 - [해시(Hash)](https://www.notion.so/Hash-64d8d6f991b146e6aa347a0a2438c21f) ([ ✍ code ](https://github.com/parkksss/Study/blob/main/Data_Structure/Theory/hashTable.js))
 - [스택(Stack)](https://www.notion.so/stack-2b894f5ce088497e851cb6d502fc0065)
 - [큐(Queue)](https://www.notion.so/Queue-492ad928ccfd4a68af57300a0c50c49d)
-- [힙(Heap](https://www.notion.so/Heap-436a5f3d879248c6965deb290f4b55f3)
+- [힙(Heap)](https://www.notion.so/Heap-436a5f3d879248c6965deb290f4b55f3)
 
 <br>
 

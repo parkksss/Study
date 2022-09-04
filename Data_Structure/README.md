@@ -32,6 +32,7 @@
 - [lv1. 폰켓몬 (해시연습)](https://velog.io/@parkksss/coding-test-programmers-42)
 - [lv2. 위장 (해시연습)](https://velog.io/@parkksss/coding-test-programmers-43)
 - [lv3. 베스트앨범 (해시연습)](https://velog.io/@parkksss/coding-test-programmers-44)
+- [lv2. 기능개발 (큐연습)](https://velog.io/@parkksss/coding-test-programmers-45)
 
 ### Baekjoon
 - <a href="./Baekjoon/18258.js">18258. 큐 2</a>

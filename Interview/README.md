@@ -101,6 +101,24 @@
   - 자바스크립트는 객체지향 프로그래밍 언어인가요?
   - 프로토타입이 뭔가요?
 
+- <a href="./JavaScript/StrictMode.md">strict mode</a>
+
+  - strict mode가 뭔가요?
+  - strict mode를 통해 무엇을 예방할 수 있죠?
+  - 빌트인 객체 🔥
+
+- <a href="./JavaScript/BuiltInObject.md">빌트인 객체</a>
+
+  - 빌트인 객체가 뭔가요? 종류는 어떤게 있죠?
+  - 래퍼 객체에 대해서 알고 있나요?
+  - this 🔥
+
+- <a href="./JavaScript/This.md">this</a>
+  
+  - this가 뭔가요? 🔥
+  - this 바인딩이란?
+  - this는 동적으로 바인딩이 된다고 하는데 바인딩되는 객체가 어떻게 다르나요?
+
 - `프로그래밍 🔥`
 
   - 프로그래밍이란 뭐라고 생각하나요?

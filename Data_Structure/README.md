@@ -35,6 +35,7 @@
 - [lv3. 베스트앨범 (해시연습)](https://velog.io/@parkksss/coding-test-programmers-44)
 - [lv2. 기능개발 (큐연습)](https://velog.io/@parkksss/coding-test-programmers-45)
 - [lv2. 프린터 (큐연습)](https://velog.io/@parkksss/coding-test-programmers-46)
+- [lv2. 다리를 지나는 트럭 (큐)](https://velog.io/@parkksss/coding-test-programmers-47)
 
 ### Baekjoon
 - <a href="./Baekjoon/18258.js">18258. 큐 2</a>

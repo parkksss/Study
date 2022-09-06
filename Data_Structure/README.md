@@ -30,12 +30,13 @@
 - [짝수와 홀수](https://velog.io/@parkksss/coding-test-programmers-3)
 - [가운데 글자 가져오기](https://velog.io/@parkksss/coding-test-programmers-4)
 - [시저 암호](https://velog.io/@parkksss/coding-test-programmers-39)
-- [lv1. 폰켓몬 (해시연습)](https://velog.io/@parkksss/coding-test-programmers-42)
-- [lv2. 위장 (해시연습)](https://velog.io/@parkksss/coding-test-programmers-43)
-- [lv3. 베스트앨범 (해시연습)](https://velog.io/@parkksss/coding-test-programmers-44)
-- [lv2. 기능개발 (큐연습)](https://velog.io/@parkksss/coding-test-programmers-45)
-- [lv2. 프린터 (큐연습)](https://velog.io/@parkksss/coding-test-programmers-46)
+- [lv1. 폰켓몬 (해시)](https://velog.io/@parkksss/coding-test-programmers-42)
+- [lv2. 위장 (해시)](https://velog.io/@parkksss/coding-test-programmers-43)
+- [lv3. 베스트앨범 (해시)](https://velog.io/@parkksss/coding-test-programmers-44)
+- [lv2. 기능개발 (큐)](https://velog.io/@parkksss/coding-test-programmers-45)
+- [lv2. 프린터 (큐)](https://velog.io/@parkksss/coding-test-programmers-46)
 - [lv2. 다리를 지나는 트럭 (큐)](https://velog.io/@parkksss/coding-test-programmers-47)
+- [lv2. 올바른 괄호 (스택)](https://velog.io/@parkksss/coding-test-programmers-48)
 
 ### Baekjoon
 - <a href="./Baekjoon/18258.js">18258. 큐 2</a>

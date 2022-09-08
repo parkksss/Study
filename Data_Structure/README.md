@@ -25,6 +25,12 @@
 
 ### Programmers
 
+**기출문제**
+- [KAKAO 기출 | 성격 유형 검사하기](https://velog.io/@parkksss/PRG-KAKAO-1)
+
+---
+**기본문제**
+
 - [x만큼 간격이 있는 n개의 숫자](https://velog.io/@parkksss/coding-test-programmers-1) 
 - [직사각형 별찍기](https://velog.io/@parkksss/coding-test-programmers-2) 
 - [짝수와 홀수](https://velog.io/@parkksss/coding-test-programmers-3)

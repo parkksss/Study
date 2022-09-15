@@ -144,7 +144,7 @@
   - 이벤트 루프와 태스크 큐에 대해서 알고 있나요?
   - 마이크로태스크 큐에 대해서 알고 있나요?
 
-- <a href="./JavaScript/Closure.md">Ajax</a>
+- <a href="./JavaScript/Ajax.md">Ajax</a>
 
   - Ajax가 뭔가요 어떤 것을 담당하고 있죠?
   - Ajax를 사용하면 기존 방식과 어떤 차이가 있을까요?

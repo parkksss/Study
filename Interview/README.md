@@ -152,7 +152,7 @@
   - JSON이 제공하는 정적 프로토타입 메서드에 대해 몇가지 말해볼 수 있나요?
   - Ajax로 HTTP 요청을 보내기 위해서는 어떤 방법을 사용할 수 있나요?
 
-- <a href="./JavaScript/Closure.md">REST API</a>
+- <a href="./JavaScript/RestAPI.md">REST API</a>
 
   - REST API가 뭔가요?
   - REST API의 구성은 어떤 것이 있나요?
